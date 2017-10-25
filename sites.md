@@ -20,3 +20,7 @@ document.onreadystatechange = function () {
     pTag.innerHTML = '굿모닝';
   }
 }
+
+# jQuery
+http://jquery.com/
+http://jquery.com/download/
