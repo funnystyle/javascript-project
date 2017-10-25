@@ -5,10 +5,19 @@
     <!-- <script src="app.js"></script> -->
     <!-- <script src="arrays.js"></script> -->
     <!-- <script src="functions.js"></script> -->
-    <script src="objects.js"></script>
+    <!-- <script src="objects.js"></script> -->
+    <!-- <script src="strings.js"></script> -->
+    <!-- <script src="ecma6.js"></script> -->
+    <script src="doms.js"></script>
+    <script>
+      window.onload = function () {
+        var pTag = document.getElementById('greet');
+        pTag.innerHTML = '굿모닝';
+      };
+    </script>
   </head>
   <body>
-    <a href="https://github.com/tipjs/javascript-style-guide/blob/master/es5.md" target="_blank">airbnb ES5 style guide</a>
-    <a href="https://github.com/tipjs/javascript-style-guide" target="_blank">airbnb ES6 style guide</a>
+    <h1>Hello world</h1>
+    <p id="greet">안녕하세요</p>
   </body>
 </html>
