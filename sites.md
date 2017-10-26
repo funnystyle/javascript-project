@@ -27,3 +27,7 @@ http://jquery.com/download/
 
 # JetBrains
 https://www.jetbrains.com/
+
+# github
+https://api.github.com/
+https://api.github.com/users
