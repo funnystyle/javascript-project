@@ -24,3 +24,6 @@ document.onreadystatechange = function () {
 # jQuery
 http://jquery.com/
 http://jquery.com/download/
+
+# JetBrains
+https://www.jetbrains.com/
